@@ -1,0 +1,12 @@
+artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+Gen Hoshino,Comedy,Comedy,73,230666,false,0,7,0,5,1,-6,7,0,0,1,0,0,0,0,0,4,0,7,87,9,4,acoustic
+Gen Hoshino,POP VIRUS,Koi,53,251266,false,0,6,0,8,9,-2,6,1,0,1,0,0,0,0,0,2,0,9,158,1,4,acoustic
+Gen Hoshino,I Wanna Be Your Ghost (feat. Ghosts),I Wanna Be Your Ghost (feat. Ghosts),50,225533,false,0,8,0,8,11,-4,9,0,0,1,0,0,0,0,0,0,1,0,130,0,4,acoustic
+Gen Hoshino,FUSHIGI,FUSHIGI,49,290000,false,0,8,0,6,3,-4,6,1,0,0,0,1,0,0,0,1,0,5,89,0,4,acoustic
+Gen Hoshino,Doraemon,Doraemon,41,239933,false,0,6,0,5,4,-4,1,1,0,0,0,0,0,0,0,1,1,0,160,0,4,acoustic
+Gen Hoshino,YELLOW DANCER,SUN,48,241466,false,0,8,0,7,1,-5,8,1,0,0,0,0,0,0,0,1,0,9,108,2,4,acoustic
+Gen Hoshino,POP VIRUS,Pop Virus,47,182000,false,0,6,0,4,9,-4,6,1,0,1,0,0,0,0,0,2,0,8,78,2,4,acoustic
+Gen Hoshino,Comedy,Comedy,73,230666,false,0,7,0,5,1,-6,7,0,0,1,0,0,0,0,0,4,0,7,87,9,4,j-pop
+Gen Hoshino,Comedy,Comedy,73,230666,false,0,7,0,5,1,-6,7,0,0,1,0,0,0,0,0,4,0,7,87,9,4,singer-songwriter
+Gen Hoshino,Comedy,Comedy,73,230666,false,0,7,0,5,1,-6,7,0,0,1,0,0,0,0,0,4,0,7,87,9,4,songwriter
+
